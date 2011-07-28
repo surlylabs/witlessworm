@@ -1,0 +1,399 @@
+body, div, form, p, td {
+	background-color: transparent;
+	color: #000000;
+	font-family: Arial,Helvetica,sans-serif;
+	font-size: 13px;
+	font-style: normal;
+	font-weight: normal;
+	text-decoration: none;
+}
+
+body {
+	background: transparent;
+	background-color: #FFFFFF;
+	line-height: normal;
+	margin-left: 0;
+	margin-right: auto;
+	margin-top: 1px;
+	padding: 0;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+a:link {
+	color: #CC0000;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #CC0000;
+	text-decoration: none;
+}
+
+b {
+	font-weight: bold;
+}
+
+img {
+	border-color: #CC0000;
+}
+
+div.box-featured {
+	background-color: #FFFFFF;
+	border: 1px solid #4F007D;
+	margin: 0px;
+	padding: 0px;
+}
+
+div.box-featured-body {
+	font: normal 10px Arial,Helvetica,sans-serif;
+	margin: 4px 0px 8px 0px;
+	padding: 0px 4px;
+}
+
+div.box-featured-header {
+	background-color: #4F007D;
+	color: #FFFFFF;
+	font: bold 12px Arial,Helvetica,sans-serif;
+	margin: 0px;
+	padding: 4px 0px;
+	text-align: center;
+}
+
+div.box-featured-body div {
+	font: normal 12px Arial,Helvetica,sans-serif;
+}
+
+div.box-featured a:hover {
+	font: normal 12px Arial,Helvetica,sans-serif;
+}
+
+div.box-featured a:link, div.box-featured a:visited {
+	font: normal 12px Arial,Helvetica,sans-serif;
+}
+
+div.box-rightside {
+	background-color: #FFFFFF;
+	border: 1px solid #CCCCCC;
+	margin: 0px;
+	padding: 0px;
+}
+
+div.box-rightside-body {
+	font: normal 10px Arial,Helvetica,sans-serif;
+	margin: 4px 0px 8px 0px;
+	padding: 0px 4px;
+}
+
+div.box-rightside-header {
+	background-color: #CCCCCC;
+	color: #000000;
+	font: bold 12px Arial,Helvetica,sans-serif;
+	margin: 0px;
+	padding: 4px 0px;
+	text-align: center;
+}
+
+div.box-rightside-body div {
+	font: normal 12px Arial,Helvetica,sans-serif;
+}
+
+div.box-rightside a:hover {
+	font: normal 12px Arial,Helvetica,sans-serif;
+}
+
+div.box-rightside a:link, div.box-rightside a:visited {
+	font: normal 12px Arial,Helvetica,sans-serif;
+}
+
+div.center {
+	text-align: center;
+}
+
+div.group {
+	margin: 1em 0;
+	padding: 0;
+}
+
+div.group-top {
+	margin: 0 0 1em 0;
+	padding: 0;
+}
+
+div.item {
+	margin: 0.5em 0;
+	padding: 0;
+}
+
+div.item-top {
+	margin: 0 0 0.5em 0;
+	padding: 0;
+}
+
+img.absmiddle {
+  border-style: none; 
+  vertical-align: middle;
+}
+
+p.bigfirst:first-letter {
+	color: red;
+	font-size: 250%;
+	font-variant: small-caps;
+}
+
+p.bigfirst-featured:first-letter {
+	color: #4F007D;
+	font-size: 250%;
+	font-variant: small-caps;
+}
+
+p.dropcap:first-letter {
+	color: red;
+	font-size: 300%; 
+	float: left;
+	line-height: 0.8em;
+	padding-bottom: 0em;
+	padding-left: 0em;
+	padding-right: 0.1em;
+	padding-top: 0.1em;
+}
+
+p.dropcap-featured:first-letter {
+	color: #4F007D;
+	font-size: 300%; 
+	float: left;
+	line-height: 0.8em;
+	padding-bottom: 0em;
+	padding-left: 0em;
+	padding-right: 0.1em;
+	padding-top: 0.1em;
+}
+
+table {
+	font-size: 1.0em;
+}
+
+td {
+	background: transparent;
+}
+
+th {
+	background: transparent;
+	font-weight: bold;
+}
+
+.black {
+	color: #000000;
+	text-decoration: none;
+}
+
+.blackbold {
+	color: #000000;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.caption {
+	color: #666666;
+	display: block;
+	font-size: 10px;
+	font-style: italic;
+}
+
+.content {
+	margin-top: 0px;
+	margin-left: 175px;
+	padding-right: 10px;
+}
+
+.content h1 {
+	background-color: #CCCCCC;
+	text-indent: 3pt;
+}
+
+.footer {
+	border-top-color: #CCCCCC;
+	border-top-style: solid;
+	border-top-width: 1px;
+	display: block;
+	margin-left: 175px;
+	padding-top: 3px;
+	text-align: right;
+}
+
+.header {
+	background: url('../media/image/worm/sky.png') repeat-x;
+	display: block;
+	margin: 0px;
+}
+
+.leftnav {
+	border-right: 1px solid #EEEEEE;
+	float: left;
+	font: small Verdana,sans-serif;
+	padding-right: 10px;
+	text-align: right;
+	width: 160px;
+}
+
+.leftnavfooter {
+	color: #666666;
+	display: block;
+	font: small Verdana,sans-serif;
+	font-size: 10px;
+	font-style: italic;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+.leftnav a:hover {
+	background-color: #EEEEEE;
+	background-image: none;
+	border-top: 1px solid #CCCCCC;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.leftnav a:link, .leftnav a:visited {
+	background: transparent;
+	border-bottom: 1px solid #EEEEEE;
+	color: #CC0000;
+	display: block;
+	font-family: Arial,Helvetica,sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	font-weight: normal;
+	line-height: normal;
+	padding: 2px 0px 1px 10px;
+	text-decoration: none;
+}
+
+.leftnav a:hover.sectionTitle {
+	background-color: #EEEEEE;
+	background-image: none;
+	border-top: 1px solid #CCCCCC;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.leftnav a:link.sectionTitle, .leftnav a:visited.sectionTitle {
+	border-top: 1px solid #EEEEEE;
+	color: #CC0000; 
+	font-size: 12px; 
+	font-weight: bold; 
+	padding-bottom: 20px;
+	padding-top: 20px; 
+}
+
+.leftnav h1 {
+	background: transparent;
+	background-color: #CCCCCC;
+	border-top: 1px solid #CCCCCC;	
+	color: #000000;
+	font-family: Arial,Helvetica,sans-serif;
+	font-weight: bold;
+	font-size: 11px;
+	font-style: normal;
+	line-height: normal;
+	margin-bottom: 2px;
+	margin-top: 12px;
+	padding: 3px;
+	text-decoration: none;
+}
+
+.leftnav h1 a:hover {
+	background: transparent;
+	background-color: #CCCCCC;
+	background-image: none;
+	border-top: 1px solid #CCCCCC;	
+	color: #000000;
+	font-weight: bold;
+	font-size: 11px;
+	font-style: normal;
+	line-height: normal;
+	text-decoration: none;
+}
+
+.leftnav h1 a:link, .leftnav h1 a:visited {
+	background: transparent;
+	background-color: #CCCCCC;
+	border-top: 1px solid #CCCCCC;
+	color: #000000;
+	font-weight: bold;
+	font-size: 11px;
+	font-style: normal;
+	line-height: normal;
+	text-decoration: none;
+}
+
+.rightnav {
+	font: small Verdana,sans-serif;
+	float: right;
+	padding-left: 10px;
+	padding-right: 5px;
+	padding-top: 5px;
+	text-align: left;
+	width: 250px;
+}
+
+.normal {
+	background: transparent;
+	color: #000000;
+	font-size: 13px;
+	font-style: normal;
+	font-weight: normal;
+	line-height: normal;
+	text-decoration: none;
+}
+
+.red {
+	color: #CC0000;
+	text-decoration: none;
+}
+
+.redbold {
+	color: #CC0000;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.redsmall {
+	color: #CC0000;
+	font-size: 10px;
+}
+
+.redstrike {
+	color: #CC0000;
+	text-decoration: line-through;
+}
+
+.purple {
+	color: #4F007D;
+	text-decoration: none;
+}
+
+.purplebold {
+	color: #4F007D;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.v1bold {
+	color: #000000;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.v2bold {
+	color: #000000;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.v3bold {
+	color: #000000;
+	font-weight: bold;
+	text-decoration: none;
+}

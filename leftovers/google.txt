@@ -1,0 +1,21 @@
+http://www.google.com/services/free.html
+
+http://www.google.com/help/features.html
+
+<!-- Search Google -->
+<center>
+<FORM method=GET action=http://www.google.com/custom>
+<TABLE bgcolor=#FFFFFF cellspacing=0 border=0>
+<tr valign=top><td>
+<A HREF=http://www.google.com/search>
+<IMG SRC=http://www.google.com/logos/Logo_40wht.gif border=0 ALT=Google align=middle></A>
+</td>
+<td>
+<INPUT TYPE=text name=q size=31 maxlength=255 value="">
+<INPUT type=submit name=sa VALUE="Google Search">
+<INPUT type=hidden name=cof VALUE="GIMP:000000;T:000000;LW:100;BIMG:http://erickinsella.tripod.com/image/greenTipGreyStrip.gif;ALC:FF0000;L:http://erickinsella.tripod.com/image/menuLogo/menuLogoTheVoid.gif;GFNT:000000;LC:000000;LH:43;AH:center;VLC:000000;GL:1;S:http://erickinsella.tripod.com;GALT:000000;AWFID:a1ca12a979206d1f;">
+<font face=arial,sans-serif size=-1><input type=hidden name=domains value="eric.kinsella.tripod.com"><br><input type=radio name=sitesearch value="" checked> Search WWW <input type=radio name=sitesearch value="eric.kinsella.tripod.com"> Search eric.kinsella.tripod.com </font><br>
+</td></tr></TABLE>
+</FORM>
+</center>
+<!-- Search Google -->

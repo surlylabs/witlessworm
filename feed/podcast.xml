@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <category>radio</category>
+  <copyright>copyright 2010 witlessworm.com</copyright>
+  <description>witlessworm.com podcasts, cover your ears!</description>
+  <generator>witless worm rss generator 0.1 beta</generator>
+  <image>
+    <url>http://www.witlessworm.com/media/image/common/featured/awesome.jpg</url>
+    <link>http://www.witlessworm.com</link>
+    <title>witless worm</title>
+  </image>
+  <language>en-us</language>
+  <lastBuildDate>Mon, 23 Feb 2009 06:00:00 CST</lastBuildDate>
+  <link>http://www.witlessworm.com</link>
+  <pubDate>Mon, 23 Feb 2009 06:00:00 -0600</pubDate>
+  <title>witless worm podcasts</title>
+  <ttl>60</ttl>
+  <item>
+    <guid isPermaLink="false">5e044046-2747-efcc-8b9f-62e9ed356762</guid>
+    <title>awesome mix tape podcast 1.7</title>
+    <description>awesome mix tape podcast 1.7 : the groovy goolies web challenge mix. a worm 2 mix</description>
+    <pubDate>Mon, 23 Feb 2009 06:00:00 -0600</pubDate>
+    <enclosure url="http://www.witlessworm.com/media/podcast/awesomemixtapepodcast1.7.mp3" length="84213760" type="audio/mpeg"/>
+  </item>
+  <item>
+    <guid isPermaLink="false">5e044046-2747-efcc-8b9f-62e9ed356761</guid>
+    <title>awesome mix tape podcast 1.6</title>
+    <description>awesome mix tape podcast 1.6 : the v-day mix. a worm 2 mix, a dedication to worm 9</description>
+    <pubDate>Sat, 14 Feb 2009 06:00:00 -0600</pubDate>
+    <enclosure url="http://www.witlessworm.com/media/podcast/awesomemixtapepodcast1.6.mp3" length="68927448" type="audio/mpeg"/>
+  </item>
+  <item>
+    <guid isPermaLink="false">5e044046-2747-efcc-8b9f-62e9ed356760</guid>
+    <title>awesome mix tape podcast 1.5</title>
+    <description>awesome mix tape podcast 1.5 : the b-sides xmas mix. a worm 2 mix</description>
+    <pubDate>Mon, 22 Dec 2008 06:00:00 -0600</pubDate>
+    <enclosure url="http://www.witlessworm.com/media/podcast/awesomemixtapepodcast1.5.mp3" length="64610304" type="audio/mpeg"/>
+  </item>
+  <item>
+    <guid isPermaLink="false">5e044046-2747-efcc-8b9f-62e9ed356759</guid>
+    <title>awesome mix tape podcast 1.3</title>
+    <description>awesome mix tape podcast 1.3 : the sink mix. a worm 11 mix</description>
+    <pubDate>Mon, 14 Apr 2008 06:00:00 -0600</pubDate>
+    <enclosure url="http://www.witlessworm.com/media/podcast/awesomemixtapepodcast1.4.mp3" length="59154432" type="audio/mpeg"/>
+  </item>
+  <item>
+    <guid isPermaLink="false">5e044046-2747-efcc-8b9f-62e9ed356758</guid>
+    <title>awesome mix tape podcast 1.4</title>
+    <description>awesome mix tape podcast 1.4 : the unxmas mix. a worm 3 and 2 mix</description>
+    <pubDate>Fri, 14 Dec 2007 06:00:00 -0600</pubDate>
+    <enclosure url="http://www.witlessworm.com/media/podcast/awesomemixtapepodcast1.4.mp3" length="73093120" type="audio/mpeg"/>
+  </item>
+  <item>
+    <guid isPermaLink="false">5e044046-2747-efcc-8b9f-62e9ed356757</guid>
+    <title>awesome mix tape podcast now on odeo!</title>
+    <description>trying to claim <a href="http://odeo.com/claim/feed/74af36e3002781d1">awesome mix tape podcast odeo channel</a> (odeo/74af36e3002781d1)</description>
+    <pubDate>Fri, 14 Dec 2007 08:00:00 -0600</pubDate>
+  </item>
+  <item>
+    <guid isPermaLink="false">5e044046-2747-efcc-8b9f-62e9ed356756</guid>
+    <title>awesome mix tape podcast 1.2</title>
+    <description>awesome mix tape podcast 1.2 : welcome to the rock! a worm 11 and 2 mix</description>
+    <pubDate>Mon, 1 Oct 2007 06:00:00 -0600</pubDate>
+    <enclosure url="http://www.witlessworm.com/media/podcast/awesomemixtapepodcast1.2.mp3" length="55398400" type="audio/mpeg"/>
+  </item>
+  <item>
+    <guid isPermaLink="false">5e044046-2747-efcc-8b9f-62e9ed356755</guid>
+    <title>awesome mix tape podcast 1.1</title>
+    <description>awesome mix tape podcast 1.1 : a worm 3 mix</description>
+    <pubDate>Tue, 21 Aug 2007 06:00:00 -0600</pubDate>
+    <enclosure url="http://www.witlessworm.com/media/podcast/awesomemixtapepodcast1.1.mp3" length="37491530" type="audio/mpeg"/>
+  </item>
+  <item>
+    <guid isPermaLink="false">5e044046-2747-efcc-8b9f-62e9ed356754</guid>
+    <title>awesome mix tape podcast 1.0</title>
+    <description>awesome mix tape podcast 1.0 : the upcast, a worm 11 mix</description>
+    <pubDate>Mon, 30 Jul 2007 06:00:00 -0600</pubDate>
+    <enclosure url="http://www.witlessworm.com/media/podcast/awesomemixtapepodcast1.0.mp3" length="36449032" type="audio/mpeg"/>
+  </item>
+  <item>
+    <guid isPermaLink="false">5e044046-2747-efcc-8b9f-62e9ed356753</guid>
+    <title>awesome mix tape podcast 0.9</title>
+    <description>awesome mix tape podcast 0.9 : the downcast, a worm 11 mix</description>
+    <pubDate>Mon, 5 Mar 2007 06:00:00 -0600</pubDate>
+    <enclosure url="http://www.witlessworm.com/media/podcast/awesomemixtapepodcast0.9.mp3" length="45817318" type="audio/mpeg"/>
+  </item>
+  <item>
+    <guid isPermaLink="false">5e044046-2747-efcc-8b9f-62e9ed356752</guid>
+    <title>awesome mix tape podcast 0.8</title>
+    <description>awesome mix tape podcast 0.8 : the kickassiest xmas ever mix, a worm 2 mix</description>
+    <pubDate>Mon, 18 Dec 2006 06:00:00 -0600</pubDate>
+    <enclosure url="http://www.witlessworm.com/media/podcast/awesomemixtapepodcast0.8.mp3" length="38429053" type="audio/mpeg"/>
+  </item>
+  <item>
+    <guid isPermaLink="false">5e044046-2747-efcc-8b9f-62e9ed356751</guid>
+    <title>awesome mix tape podcast 0.7</title>
+    <description>awesome mix tape podcast 0.7 : the worm 13 mix</description>
+    <pubDate>Mon, 4 Dec 2006 06:00:00 -0600</pubDate>
+    <enclosure url="http://www.witlessworm.com/media/podcast/awesomemixtapepodcast0.7.mp3" length="42328612" type="audio/mpeg"/>
+  </item>
+  <item>
+    <guid isPermaLink="false">5e044046-2747-efcc-8b9f-62e9ed356750</guid>
+    <title>awesome mix tape podcast 0.6</title>
+    <description>awesome mix tape podcast 0.6 : the worm 6 mix</description>
+    <pubDate>Fri, 17 Nov 2006 06:00:00 -0600</pubDate>
+    <enclosure url="http://www.witlessworm.com/media/podcast/awesomemixtapepodcast0.6.mp3" length="36336749" type="audio/mpeg"/>
+  </item>
+  <item>
+    <guid isPermaLink="false">5e044046-2747-efcc-8b9f-62e9ed356749</guid>
+    <title>awesome mix tape podcast 0.5 part 2</title>
+    <description>awesome mix tape podcast 0.5 part 2 : the pat mccurdy mix a.k.a. the pat cast, a worm 2 mix</description>
+    <pubDate>Tue, 31 Oct 2006 06:00:00 -0600</pubDate>
+    <enclosure url="http://www.witlessworm.com/media/podcast/awesomemixtapepodcast0.5part2.mp3" length="37763244" type="audio/mpeg"/>
+  </item>
+  <item>
+    <guid isPermaLink="false">5e044046-2747-efcc-8b9f-62e9ed356748</guid>
+    <title>awesome mix tape podcast 0.5 part 1</title>
+    <description>awesome mix tape podcast 0.5 part 1 : the pat mccurdy mix a.k.a. the pat cast, a worm 2 mix</description>
+    <pubDate>Tue, 31 Oct 2006 06:00:00 -0600</pubDate>
+    <enclosure url="http://www.witlessworm.com/media/podcast/awesomemixtapepodcast0.5part1.mp3" length="39950843" type="audio/mpeg"/>
+  </item>
+  <item>
+    <guid isPermaLink="false">5e044046-2747-efcc-8b9f-62e9ed356747</guid>
+    <title>witlessworm.com awesome mix tape podcast promo video</title>
+    <description>witlessworm.com awesome mix tape podcast promo video</description>
+    <pubDate>Wed, 25 Oct 2006 06:00:00 -0600</pubDate>
+    <enclosure url="http://www.witlessworm.com/media/podcast/awesomeMixTapePodcastPromo.wmv" length="1842522" type="video/x-ms-wmv"/>
+  </item>
+  <item>
+    <guid isPermaLink="false">5e044046-2747-efcc-8b9f-62e9ed356746</guid>
+    <title>awesome mix tape podcast 0.5</title>
+    <description>awesome mix tape podcast 0.5 : the pat mccurdy mix a.k.a. the pat cast, a worm 2 mix</description>
+    <pubDate>Mon, 30 Oct 2006 06:00:00 -0600</pubDate>
+    <enclosure url="http://www.witlessworm.com/media/podcast/awesomemixtapepodcast0.5.mp3" length="73879515" type="audio/mpeg"/>
+  </item>
+  <item>
+    <guid isPermaLink="false">5e044046-2747-efcc-8b9f-62e9ed356745</guid>
+    <title>awesome mix tape podcast 0.4.1</title>
+    <description>awesome mix tape podcast 0.4.1 : the boston mix, a dabootski.com mix</description>
+    <pubDate>Mon, 25 Sep 2006 06:00:00 -0600</pubDate>
+    <enclosure url="http://www.witlessworm.com/media/podcast/awesomemixtapepodcast0.4.1.mp3" length="18061066" type="audio/mpeg"/>
+  </item>
+  <item>
+    <guid isPermaLink="false">5e044046-2747-efcc-8b9f-62e9ed356744</guid>
+    <title>awesome mix tape podcast 0.4</title>
+    <description>awesome mix tape podcast 0.4 : the boston mix, a worm 2 mix</description>
+    <pubDate>Sat, 23 Sep 2006 06:00:00 -0600</pubDate>
+    <enclosure url="http://www.witlessworm.com/media/podcast/awesomemixtapepodcast0.4.mp3" length="39503038" type="audio/mpeg"/>
+  </item>
+  <item>
+    <guid isPermaLink="false">5e044046-2747-efcc-8b9f-62e9ed356743</guid>
+    <title>awesome mix tape podcast 0.3</title>
+    <description>awesome mix tape podcast 0.3 : the milwaukee mix, a worm 1 mix</description>
+    <pubDate>Fri, 22 Sep 2006 06:00:00 -0600</pubDate>
+    <enclosure url="http://www.witlessworm.com/media/podcast/awesomemixtapepodcast0.3.mp3" length="33038881" type="audio/mpeg"/>
+  </item>
+  <item>
+    <guid isPermaLink="false">5e044046-2747-efcc-8b9f-62e9ed356742</guid>
+    <title>awesome mix tape podcast 0.2</title>
+    <description>awesome mix tape podcast 0.2 : the brother worm mix </description>
+    <pubDate>Tue, 19 Sep 2006 06:00:00 -0600</pubDate>
+    <enclosure url="http://www.witlessworm.com/media/podcast/awesomemixtapepodcast0.2.mp3" length="28573406" type="audio/mpeg"/>
+  </item>
+  <item>
+    <guid isPermaLink="false">5e044046-2747-efcc-8b9f-62e9ed356741</guid>
+    <title>awesome mix tape podcast 0.1</title>
+    <description>awesome mix tape podcast 0.1 : the original mix</description>
+    <pubDate>Sat, 24 Sep 2005 06:00:00 -0600</pubDate>
+    <enclosure url="http://www.witlessworm.com/media/podcast/awesomemixtapepodcast0.1.mp3" length="29306088" type="audio/mpeg"/>
+  </item>
+</channel>
+</rss>

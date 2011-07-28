@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/style/xsl/viewrss.xsl"?>
+<rss version="2.0">
+<channel>
+  <copyright>copyright 2010 witlessworm.com</copyright>
+  <description>witlessworm.com new/featured content</description>
+  <generator>witless worm rss generator 0.1 beta</generator>
+  <image>
+    <link>http://www.witlessworm.com</link>
+    <title>witless worm</title>
+    <url>http://www.witlessworm.com/media/image/worm/wormsred.png</url>
+  </image>
+  <language>en-us</language>
+  <lastBuildDate>Thu, 7 Jan 2010 06:00:00 CST</lastBuildDate>
+  <link>http://www.witlessworm.com</link>
+  <pubDate>Thu, 7 Jan 2010 06:00:00 -0600</pubDate>
+  <title>witlessworm.com new/featured content</title>
+  <ttl>60</ttl>
+  <item>
+    <guid isPermaLink="false">5e044046-2747-efcc-8b9f-000000000070</guid>
+    <title>featured: conversation with smoot</title>
+    <description>in which the man's true intentions are revealed.</description>
+    <link>http://www.witlessworm.com/page/worm/odd/smoot/2012.html</link>
+    <pubDate>Thu, 5 Nov 2009 06:00:00 -0600</pubDate>
+  </item>
+  <item>
+    <guid isPermaLink="false">5e044046-2747-efcc-8b9f-000000000069</guid>
+    <title>featured: 2009 viking of the year</title>
+    <description>2009 viking of the year nominees</description>
+    <link>http://www.witlessworm.com/page/worm/odd/voty/2009.html</link>
+    <pubDate>Wed, 29 Jul 2008 06:00:00 -0600</pubDate>
+  </item>
+  <item>
+    <guid isPermaLink="false">5e044046-2747-efcc-8b9f-000000000068</guid>
+    <title>featured: conversation with smoot</title>
+    <description>in which fred smoot and i discuss the recent economic downturn.</description>
+    <link>http://www.witlessworm.com/page/worm/odd/smoot/smoovington.html</link>
+    <pubDate>Tue, 24 Feb 2009 06:00:00 -0600</pubDate>
+  </item>
+  <item>
+    <guid isPermaLink="false">5e044046-2747-efcc-8b9f-000000000067</guid>
+    <title>featured: conversation with smoot</title>
+    <description>in which brett favre announces his retirement... again.</description>
+    <link>http://www.witlessworm.com/page/worm/odd/smoot/brettfavre.html</link>
+    <pubDate>Fri, 12 Feb 2009 06:00:00 -0600</pubDate>
+  </item>
+  <item>
+    <guid isPermaLink="false">5e044046-2747-efcc-8b9f-000000000066</guid>
+    <title>featured: 2009 dead pool</title>
+    <description>the 2009 witlessworm.com celebrity dead pool</description>
+    <link>http://www.witlessworm.com/page/worm/odd/dead/2009deadpool.html</link>
+    <pubDate>Sun, 4 Jan 2009 06:00:00 -0600</pubDate>
+  </item>
+  <item>
+    <guid isPermaLink="false">5e044046-2747-efcc-8b9f-000000000065</guid>
+    <title>featured: can reed richards go to his left?</title>
+    <description>lebron vs wolverine</description>
+    <link>http://www.witlessworm.com/page/worm/rant/fury/lebron.html</link>
+    <pubDate>Thu, 18 Dec 2008 06:00:00 -0600</pubDate>
+  </item>
+  <item>
+    <guid isPermaLink="false">5e044046-2747-efcc-8b9f-000000000064</guid>
+    <title>featured: the television event of the year</title>
+    <description>rosie live!</description>
+    <link>http://www.witlessworm.com/page/worm/rant/tv/rosielive.html</link>
+    <pubDate>Wed, 26 Nov 2008 06:00:00 -0600</pubDate>
+  </item>
+  <item>
+    <guid isPermaLink="false">5e044046-2747-efcc-8b9f-000000000063</guid>
+    <title>featured: 2008 viking of the year</title>
+    <description>2008 viking of the year nominees</description>
+    <link>http://www.witlessworm.com/page/worm/odd/voty/2008voty.html</link>
+    <pubDate>Mon, 15 Sep 2008 06:00:00 -0600</pubDate>
+  </item>
+  <item>
+    <guid isPermaLink="false">5e044046-2747-efcc-8b9f-000000000062</guid>
+    <title>featured: no time for tv scripts</title>
+    <description>no time for tv script archive</description>
+    <link>http://www.witlessworm.com/page/worm/odd/notimefortv/index.html</link>
+    <pubDate>Mon, 28 Apr 2008 06:00:00 -0600</pubDate>
+  </item>
+  <item>
+    <guid isPermaLink="false">5e044046-2747-efcc-8b9f-000000000061</guid>
+    <title>featured: i call mr movies</title>
+    <description>i've had a lot of time to myself lately</description>
+    <link>http://www.witlessworm.com/page/worm/rant/movie/mrmovies.html</link>
+    <pubDate>Sat, 5 Jan 2008 06:00:00 -0600</pubDate>
+  </item>
+  <item>
+    <guid isPermaLink="false">5e044046-2747-efcc-8b9f-000000000060</guid>
+    <title>featured: 2008 dead pool</title>
+    <description>the 2008 witlessworm.com celebrity dead pool</description>
+    <link>http://www.witlessworm.com/page/worm/odd/dead/2008deadpool.html</link>
+    <pubDate>Sat, 5 Jan 2008 06:00:00 -0600</pubDate>
+  </item>
+  <item>
+    <guid isPermaLink="false">5e044046-2747-efcc-8b9f-000000000059</guid>
+    <title>featured: conversation with smoot</title>
+    <description>the smoot before christmas</description>
+    <link>http://www.witlessworm.com/page/worm/odd/smoot/christmas.html</link>
+    <pubDate>Fri, 21 Dec 2007 06:00:00 -0600</pubDate>
+  </item>
+  <item>
+    <guid isPermaLink="false">5e044046-2747-efcc-8b9f-000000000058</guid>
+    <title>featured: am i the anti charm?</title>
+    <description>dicovery of the chicago bears anti-charm</description>
+    <link>http://www.witlessworm.com/page/worm/odd/lucky/2007bearsanticharm.html</link>
+    <pubDate>Sun, 11 Nov 2007 06:00:00 -0600</pubDate>
+  </item>
+  <item>
+    <guid isPermaLink="false">5e044046-2747-efcc-8b9f-000000000057</guid>
+    <title>featured: four letter words</title>
+    <description>four letter words because of the writers strike</description>
+    <link>http://www.witlessworm.com/page/worm/rant/tv/fourletterwords.html</link>
+    <pubDate>Thu, 8 Nov 2007 06:00:00 -0600</pubDate>
+  </item>
+  <item>
+    <guid isPermaLink="false">5e044046-2747-efcc-8b9f-000000000056</guid>
+    <title>featured: announcing - a fistful of breakfast</title>
+    <description>a fistful of breakfast</description>
+    <link>http://www.witlessworm.com/page/worm/odd/afob/index.html</link>
+    <pubDate>Fri, 21 Sep 2007 06:00:00 -0600</pubDate>
+  </item>
+  <item>
+    <guid isPermaLink="false">5e044046-2747-efcc-8b9f-000000000055</guid>
+    <title>featured: 2007 viking of the year</title>
+    <description>2007 viking of the year nominees</description>
+    <link>http://www.witlessworm.com/page/worm/odd/voty/2007voty.html</link>
+    <pubDate>Fri, 7 Sep 2007 06:00:00 -0600</pubDate>
+  </item>
+  <item>
+    <guid isPermaLink="false">5e044046-2747-efcc-8b9f-000000000054</guid>
+    <title>featured: i hate espn</title>
+    <description>i hate espn</description>
+    <link>http://www.witlessworm.com/page/worm/rant/fury/espn.html</link>
+    <pubDate>Tue, 17 Jul 2007 06:00:00 -0600</pubDate>
+  </item>
+  <item>
+    <guid isPermaLink="false">5e044046-2747-efcc-8b9f-000000000053</guid>
+    <title>featured: spider-man &amp; i</title>
+    <description>spider-man &amp; i - creditors</description>
+    <link>http://www.witlessworm.com/page/worm/odd/spidermanandi/creditors.html</link>
+    <pubDate>Mon, 16 Jul 2007 06:00:00 -0600</pubDate>
+  </item>
+  <item>
+    <guid isPermaLink="false">5e044046-2747-efcc-8b9f-000000000052</guid>
+    <title>featured: fantastic four - rise of the silver surfer</title>
+    <description>fantastic four: rise of the silver surfer movie review</description>
+    <link>http://www.witlessworm.com/page/worm/rant/movie/fabfour2.html</link>
+    <pubDate>Sun, 15 Jul 2007 06:00:00 -0600</pubDate>
+  </item>
+  <item>
+    <guid isPermaLink="false">5e044046-2747-efcc-8b9f-000000000051</guid>
+    <title>featured: transformers</title>
+    <description>transformers movie review</description>
+    <link>http://www.witlessworm.com/page/worm/rant/movie/transformers.html</link>
+    <pubDate>Sun, 8 Jul 2007 06:00:00 -0600</pubDate>
+  </item>
+  <item>
+    <guid isPermaLink="false">5e044046-2747-efcc-8b9f-000000000050</guid>
+    <title>featured: spider man and i</title>
+    <description>spider man and i : informational interview</description>
+    <link>http://www.witlessworm.com/page/worm/odd/spidermanandi/informationalinterview.html</link>
+    <pubDate>Sat, 7 Jul 2007 06:00:00 -0600</pubDate>
+  </item>
+  <item>
+    <guid isPermaLink="false">5e044046-2747-efcc-8b9f-000000000049</guid>
+    <title>featured: spider man and i</title>
+    <description>spider man and i : lost</description>
+    <link>http://www.witlessworm.com/page/worm/odd/spidermanandi/lost.html</link>
+    <pubDate>Fri, 6 Jul 2007 06:00:00 -0600</pubDate>
+  </item>
+  <item>
+    <guid isPermaLink="false">5e044046-2747-efcc-8b9f-000000000047</guid>
+    <title>featured: conversations with fred smoot</title>
+    <description>in which smoot and i say goodbye.</description>
+    <link>http://www.witlessworm.com/page/worm/odd/smoot/goodbye.html</link>
+    <pubDate>Fri, 2 Mar 2007 06:00:00 -0600</pubDate>
+  </item>
+  <item>
+    <guid isPermaLink="false">5e044046-2747-efcc-8b9f-000000000046</guid>
+    <title>featured: 2007 dead pool</title>
+    <description>2006 dead pool</description>
+    <link>http://www.witlessworm.com/page/worm/odd/mail/2007deadpool.html</link>
+    <pubDate>Thu, 25 Jan 2007 06:00:00 -0600</pubDate>
+  </item>
+  <item>
+    <guid isPermaLink="false">5e044046-2747-efcc-8b9f-000000000045</guid>
+    <title>featured: conversations with fred smoot</title>
+    <description>in which a friend in need is a friend, indeed.</description>
+    <link>http://www.witlessworm.com/page/worm/odd/smoot/brokenjaw.html</link>
+    <pubDate>Thu, 28 Dec 2006 06:00:00 -0600</pubDate>
+  </item>
+  <item>
+    <guid isPermaLink="false">5e044046-2747-efcc-8b9f-000000000042</guid>
+    <title>featured: conversations with fred smoot</title>
+    <description>in which fred smoot and i discuss avian flu prevention while shopping for thanksgiving dinner.</description>
+    <link>http://www.witlessworm.com/page/worm/odd/smoot/birdflu.html</link>
+    <pubDate>Wed, 22 Nov 2006 06:00:00 -0600</pubDate>
+  </item>
+</channel>
+</rss>

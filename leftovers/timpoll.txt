@@ -1,0 +1,15 @@
+<!-- v- PollGEAR Code by http://htmlgear.com -v -->
+
+<script language="JavaScript" src="http://htmlgear.lycos.com/poll/control.poll?u=eric.kinsella&i=4&a=render">
+</script>
+<noscript>
+<font face='arial' size='1'> take my poll at:
+<A HREF="http://htmlgear.lycos.com/poll/control.poll?u=eric.kinsella&i=4&a=render">My Name Is Tim Poll:</A>   <img src='http://htmlgear.lycos.com/img/log/po_i_getgear.GIF' border='0'><br>htmlGEAR.com</a></font>
+</noscript>
+<!-- ^- End PollGEAR Code -^ -->
+
+8a8a4d
+bebebe
+ariel 2
+
+Out of the ashes of DSD, like a pheoix from the fire...I bring to you My Name is Tim!

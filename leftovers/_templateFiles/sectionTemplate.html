@@ -1,0 +1,207 @@
+<html>
+<head>
+  <title>Title of page</title>
+
+  <meta name="Keywords"    content="Eric Kinsella, The Void, DSD, Zen, SKA, Ska">
+  <meta name="Description" content="The Void's Homepage and Guestbook">
+
+  <!-- Place this script in the head section. ---->
+  <script language="JavaScript">
+
+  //Flag. false = use off image and true = use on image
+  var flag = false;
+
+  image1       = new Image();
+  // Place your first image within the
+  // quotation marks on the line below
+  image1.src   = "../image/menuButton/menuButtonHome.gif";
+  image1on     = new Image();
+  // Place your second image within the
+  // quotation marks on the line below
+  image1on.src = "../image/menuButton/menuButtonHomeOn.gif"
+
+  image2       = new Image();
+  image2.src   = "../image/menuButton/menuButtonDsd.gif";
+  image2on     = new Image();
+  image2on.src = "../image/menuButton/menuButtonDsdOn.gif"
+
+  image3       = new Image();
+  image3.src   = "../image/menuButton/menuButtonLinks.gif";
+  image3on     = new Image();
+  image3on.src = "../image/menuButton/menuButtonLinksOn.gif"
+
+  image4       = new Image();
+  image4.src   = "../image/menuButton/menuButtonPetac.gif";
+  image4on     = new Image();
+  image4on.src = "../image/menuButton/menuButtonPetacOn.gif"
+
+  image5       = new Image();
+  image5.src   = "../image/menuButton/menuButtonSka.gif";
+  image5on     = new Image();
+  image5on.src = "../image/menuButton/menuButtonSkaOn.gif"
+
+  image6       = new Image();
+  image6.src   = "../image/menuButton/menuButtonZen.gif";
+  image6on     = new Image();
+  image6on.src = "../image/menuButton/menuButtonZenOn.gif"
+
+  image7       = new Image();
+  image7.src   = "../image/menuButton/menuButtonEmail.gif";
+  image7on     = new Image();
+  image7on.src = "../image/menuButton/menuButtonEmailOn.gif"
+
+  function on(name)
+  {
+
+     // if currently off, turn it on
+     if (!flag) {
+        document[name].src = eval(name + "on.src");
+        flag = true;
+     }
+
+  }
+
+  function off(name)
+  {
+
+     // if currently on, turn it off
+     if (flag) {
+        document[name].src = eval(name + ".src");
+        flag = false;
+     }
+
+  }
+  </script>
+
+  <!-- End Script 2 ------------------------------->
+
+</head>
+<body link="#000000" vlink="#000000" alink="FF0000" background="../image/greenTipGreyStrip.gif">
+  <img align="top" hspace="0" vspace="0" border="0" src="../image/theVoidBanner.gif" width="744" height="88">
+
+  <table cellspacing="1" cellpadding="0" width="100%">
+    <tr>
+      <td align="left" valign="top" width="10%">
+
+        <center>
+          <b><!-- #BeginEditable "menu%20logo" --><b><font size=+2>Title</font></b><!-- #EndEditable -->
+          </b>
+          <br>
+          <br>
+        </center>
+
+        <table align="left" border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td>
+              <!-- Type your URL within the quotation marks below. -->
+              <a onmouseover="on('image1');" onmouseout="off('image1')" href="../page/voidHome.html">
+              <!--The image name below should correspond with the first image in the HEAD section.-->
+              <img name="image1" border="0" src="../image/menuButton/menuButtonHome.gif" width="82" height="23"></a>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <a onmouseover="on('image2');" onmouseout="off('image2')" href="../page/section/dsd/dsdHome.html">
+              <img name="image2" border="0" src="../image/menuButton/menuButtonDsd.gif" width="70" height="23"></a>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <a onmouseover="on('image3');" onmouseout="off('image3')" href="../page/section/links/linksHome.html">
+              <img name="image3" border="0" src="../image/menuButton/menuButtonLinks.gif" width="96" height="23"></a>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <a onmouseover="on('image4');" onmouseout="off('image4')" href="../page/section/petac/petacHome.html">
+              <img name="image4" border="0" src="../image/menuButton/menuButtonPetac.gif" width="94" height="23"></a>
+            </td>
+          </tr>
+          <tr>
+            <TD height="20">
+              <a onmouseover="on('image5');" onmouseout="off('image5')" href="../page/section/ska/skaHome.html">
+              <img name="image5" border="0" src="../image/menuButton/menuButtonSka.gif" width="68" height="23"></a>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <a onmouseover="on('image6');" onmouseout="off('image6')" href="../page/section/zen/zenHome.html">
+              <img name="image6" border="0" src="../image/menuButton/menuButtonZen.gif" width="68" height="23"></a>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <a onmouseover="on('image7');" onmouseout="off('image7')" href="mailto:erickinsella@lycos.com">
+              <img name="image7" border="0" src="../image/menuButton/menuButtonEmail.gif" width="96" height="23"></a>
+            </td>
+          </tr>
+        </table>
+
+        <br>&nbsp;
+        <br>&nbsp;
+        <br>&nbsp;
+        <br>&nbsp;
+        <br>&nbsp;
+        <br>&nbsp;
+        <br>&nbsp;
+
+        <p>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <p>&nbsp;
+      </td>
+
+      <td align="left" valign="top">
+
+        <p>
+
+        <table>
+          <tr>
+            <td>
+              &nbsp;&nbsp;&nbsp;
+            </td>
+            <td>
+              <!-- Page specific Info--><br>
+              <!-- #BeginEditable "Specific%20Page%20Content" -->
+              {Specific Page Content}<!-- #EndEditable --><br>
+              <!-- End page specific Info -->
+            </td>
+          </tr>
+        </table>
+
+        <center>
+
+        <p>&nbsp;</p>
+
+        <table bgcolor="#808040">
+          <tr valign="middle" align="center">
+            <td height="26"> <b> <a href="../page/voidHome.html">Home</a> | <a href="../page/section/dsd/dsdHome.html">DSD</a> 
+              | <a href="../page/section/links/linksHome.html">Links</a> | <a href="../page/section/petac/petacHome.html">Petac</a> 
+              | <a href="../page/section/music/ska/skaHome.html">Ska</a> | <a href="../page/section/zen/zenHome.html">Zen</a> 
+              | <a href="mailto:erickinsella@lycos.com">Email</a> </b> </td>
+          </tr>
+        </table>
+
+        </center>
+
+        <img SRC="../image/blackHrule.gif" width="632" height="5">
+        <!-- Web sites used -->
+        <!-- http://www.gifworks.com/-->
+        <!-- http://www.1001freefonts.com/index2.html -->
+        <!-- http://www.411law.com/freebie/webspace.htm -->
+        <address>
+          <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>http://eric.kinsella.tripod.com</i>
+          <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:erickinsella@lycos.com">erickinsella@lycos.com</a>
+          <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This site was last updated 11.06.2001
+          <br>&nbsp;
+        </address>
+
+      </td>
+    </tr>
+  </table>
+
+</body>
+</html>

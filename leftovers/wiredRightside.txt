@@ -1,0 +1,15 @@
+<div class="group-top">
+<div class="box-rightside">
+<div class="box-rightside-header">quick links</div>
+<div class="box-rightside-body">
+<!-- v- Headline Gear Code by http://htmlgear.com -v -->
+<script type="text/javascript" language="JavaScript" src="http://htmlgear.tripod.com/news/control.news?u=eric.kinsella&i=2&a=render"></script>
+<!-- ^- End Headline Gear Code -^ -->
+<!-- v- Headline Gear Code by http://htmlgear.com -v -->
+<script type="text/javascript" language="JavaScript" src="http://htmlgear.tripod.com/news/control.news?u=eric.kinsella&i=9&a=render"></script>
+<!-- ^- End Headline Gear Code -^ -->
+<!-- v- Headline Gear Code by http://htmlgear.com -v -->
+<script type="text/javascript" language="JavaScript" src="http://htmlgear.tripod.com/news/control.news?u=eric.kinsella&i=12&a=render"></script>
+<!-- ^- End Headline Gear Code -^ -->
+</div>
+</div>

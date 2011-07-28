@@ -1,0 +1,3 @@
+dance_small.gif = 49x49
+md3.gif = 58x40
+logo header image = 450x49

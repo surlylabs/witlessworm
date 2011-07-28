@@ -1,0 +1,531 @@
+
+
+
+
+
+	
+	
+
+
+
+	
+	
+	
+
+
+
+	
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+	
+	
+	
+
+
+<!DOCTYPE html
+	PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<!-- BEGIN: /jsp/template/standard_template.jsp -->
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+	<title>Intranet - Home Index</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"/>
+	<meta http-equiv="cache-control" content="no-store"/>
+	<meta http-equiv="pragma" content="no-cache"/>
+
+	
+	<link href="/css/style.css" rel="stylesheet" type="text/css"/>
+	
+	<script language="JavaScript" src="/js/common.js" type="text/javascript"></script>
+	<script language="JavaScript" src="/js/images.js" type="text/javascript"></script>
+</head>
+
+
+
+<!--
+########################################
+Host Name          : mlts810
+Host IP Address    : 172.27.210.181
+Remote IP Address  : 172.27.11.52
+Remote Location    : HDQ
+MLT Booking Server : prod, M
+Content Server     : prod
+########################################
+-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- BEGIN: /jsp/template/standard_page_template.jsp -->
+<body bgcolor="#FFFFFF" text="#000000" link="#006699" vlink="#006699" alink="#006699">
+<a name="top"></a>
+<div id="DivContent">
+	
+
+
+
+
+
+
+
+<!-- BEGIN: /jsp/header/home_header.jsp -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- BEGIN: /jsp/header/header_include.jsp -->
+<script language="JavaScript" type="text/javascript">
+//<!--
+function getCurrentDateString() {
+	var monthNames = new Array("Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sept","Oct","Nov","Dec");
+	var now = new Date;
+	return monthNames[now.getMonth()] + " " + now.getDate() + ", " + now.getYear();
+}
+//-->
+</script>
+<table border="0" cellpadding="0" cellspacing="0" width="753">
+	<tr>
+		<td bgcolor="#000000" colspan="3" width="753"><img width="1" height="1" border="0" src="//static.mltvacations.com/images/spacer.gif" alt=""/></td>
+	</tr>
+	<tr>
+		<td bgcolor="#000000" width="1"><img width="1" height="1" border="0" src="//static.mltvacations.com/images/spacer.gif" alt=""/></td>
+		<td width="751">
+		<table border="0" cellpadding="0" cellspacing="0" width="751">
+			<tr>
+				<td width="252"><img src="/images/header/mltlogo.gif" width="252" height="100" border="0" alt="MLT Vacations, Inc."/></td>
+				<td width="9"><img width="9" height="1" border="0" src="//static.mltvacations.com/images/spacer.gif" alt=""/></td>
+				<td width="490"><img border="0" src="//static.mltvacations.com/images/content/intranet/header/set7/photo_37.jpg" alt=""/></td>
+			</tr>
+		</table>
+		</td>
+		<td bgcolor="#000000" width="1"><img width="1" height="1" border="0" src="//static.mltvacations.com/images/spacer.gif" alt=""/></td>
+	</tr>
+	<tr>
+		<td bgcolor="#000000" colspan="3" width="753"><img width="1" height="1" border="0" src="//static.mltvacations.com/images/spacer.gif" alt=""/></td>
+	</tr>
+	<tr>
+		<td bgcolor="#000000" width="1"><img width="1" height="1" border="0" src="//static.mltvacations.com/images/spacer.gif" alt=""/></td>
+		<td bgcolor="#CC0000" width="751">
+		<table border="0" cellpadding="0" cellspacing="0" width="751">
+			<tr>
+				<td width="106"><a href="/home/index.do"><img width="106" height="29" border="0" src="/images/header/tab_home_on.gif" alt="Home" name="home"/></a></td>
+				<td width="1"><img width="1" height="29" border="0" src="/images/header/tab_separator_on.gif" alt="" name="one"/></td>
+				<td width="48"><a href="/news/index.do" onmouseout="IMAGES_swapRestore()" onmouseover="IMAGES_swap('one','/images/header/tab_separator_on.gif','news','/images/header/tab_news_on.gif','two','/images/header/tab_separator_on.gif')"><img width="48" height="29" border="0" src="/images/header/tab_news_off.gif" alt="News" name="news"/></a></td>
+				<td width="1"><img width="1" height="29" border="0" src="/images/header/tab_separator_off.gif" alt="" name="two"/></td>
+				<td width="117"><a href="/employeetravel/index.do" onmouseout="IMAGES_swapRestore()" onmouseover="IMAGES_swap('two','/images/header/tab_separator_on.gif','employeetravel','/images/header/tab_employeetravel_on.gif','three','/images/header/tab_separator_on.gif')"><img width="117" height="29" border="0" src="/images/header/tab_employeetravel_off.gif" alt="Employee Travel" name="employeetravel"/></a></td>
+				<td width="1"><img width="1" height="29" border="0" src="/images/header/tab_separator_off.gif" alt="" name="three"/></td>
+				<td width="140"><a href="/employeeresources/index.do" onmouseout="IMAGES_swapRestore()" onmouseover="IMAGES_swap('three','/images/header/tab_separator_on.gif','employeeresources','/images/header/tab_employeeresources_on.gif','','/images/header/tab_separator_on.gif')"><img width="140" height="29" border="0" src="/images/header/tab_employeeresources_off.gif" alt="Employee Resources" name="employeeresources"/></a></td>
+				<td align="right" width="337">
+				<span class="white">
+				<script language="JavaScript" type="text/javascript">
+				//<!--
+				document.write(getCurrentDateString());
+				//-->
+				</script>
+				</span>
+				 
+				</td>
+			</tr>
+		</table>
+		</td>
+		<td bgcolor="#000000" width="1"><img width="1" height="1" border="0" src="//static.mltvacations.com/images/spacer.gif" alt=""/></td>
+	</tr>
+	<tr>
+		<td bgcolor="#000000" colspan="3" width="753"><img width="1" height="1" border="0" src="//static.mltvacations.com/images/spacer.gif" alt=""/></td>
+	</tr>
+</table>
+<!-- END: /jsp/header/header_include.jsp -->
+
+<!-- END: /jsp/header/home_header.jsp -->
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- BEGIN: /jsp/template/leftside_body_template.jsp -->
+<table border="0" cellpadding="0" cellspacing="0" width="753">
+	<tr valign="top">
+		<td bgcolor="#000000" width="1"><img width="1" height="1" border="0" src="//static.mltvacations.com/images/spacer.gif" alt=""/></td>
+		<td bgcolor="#FFFFFF" width="170">
+		
+
+
+
+
+
+
+
+
+<!-- BEGIN: /jsp/sidebar/home_leftside.jsp -->
+<div class="leftside-body-shaded-top">
+<div>
+
+<div class="group-top">
+<div><img src="/images/sidebar/heading_leadershipletter.gif" width="160" height="50" border="0" alt="Leadership Letter"/></div>
+
+
+
+
+
+<p class="top">New Letter Coming Soon</p>
+
+
+
+</div>
+
+<div class="group">
+<div><img src="/images/sidebar/heading_systemalert.gif" width="160" height="50" border="0" alt="System Alerts"/></div>
+
+
+
+
+
+<p class="top">There are no System Alerts at this time.</p>
+
+
+
+<p><a href="/employeeresources/systemavailabilitymonth.do">System Availability Schedule</a></p>
+</div>
+
+</div>
+</div>
+
+<div class="group">
+<div align="center" style="margin: 4px;"><span class="v1bold">Minneapolis - HDQ</span></div>
+<div align="center" style="margin: 4px;"><a href="http://www.wunderground.com/US/MN/Minneapolis.html" target="_blank"><img src="http://banners.wunderground.com/banner/gizmotimetemp_both/language/www/US/MN/Minneapolis.gif" width="127" height="41" border="0" alt="Click for Minneapolis, Minnesota Forecast"/></a></div>
+</div>
+<div class="group">
+<div align="center" style="margin: 4px;"><span class="v1bold">Minot - OPS</span></div>
+<div align="center" style="margin: 4px;"><a href="http://www.wunderground.com/US/ND/Minot.html" target="_blank"><img src="http://banners.wunderground.com/banner/gizmotimetemp_both/language/www/US/ND/Minot.gif" width="127" height="41" border="0" alt="Click for Minot, North Dakota Forecast"/></a></div>
+</div>
+<!-- END: /jsp/sidebar/home_leftside.jsp -->
+
+		</td>
+		<td bgcolor="#000000" width="1"><img width="1" height="1" border="0" src="//static.mltvacations.com/images/spacer.gif" alt=""/></td>
+		<td bgcolor="#FFFFFF" width="580">
+		<div class="body-padded">
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- BEGIN: /jsp/body/home/index_body.jsp -->
+<style type="text/css">
+<!--
+#linklist ul {
+	margin: 0em;
+	padding: 0em;
+	list-style-type: none;
+	display: block
+}
+#linklist ul li {
+	margin: 6px 0px 0px 0px;
+	padding: 0px
+}
+-->
+</style>
+
+<table border="0" cellpadding="0" cellspacing="0" width="570">
+	<tr valign="top">
+		<td width="280">
+
+		<div class="item-top">
+		<a href="/news/index.do"><img src="/images/home/heading_news.gif" width="280" height="50" border="0" alt="News"/></a>
+		</div>
+
+		<div class="item">
+		<table border="0" cellpadding="0" cellspacing="0" width="280">
+			
+			<tr valign="top">
+				<td width="50"><span class="bold">09/21/04</span></td>
+				<td width="8"><img width="8" height="1" border="0" src="//static.mltvacations.com/images/spacer.gif" alt=""/></td>
+				<td width="210">New Job Posting
+				
+				
+				
+				
+				</td>
+			</tr>
+			<tr>
+			<td colspan="3"><img width="1" height="2" border="0" src="//static.mltvacations.com/images/spacer.gif" alt=""/></td>
+			</tr>
+			
+			<tr valign="top">
+				<td width="50"><span class="bold">09/20/04</span></td>
+				<td width="8"><img width="8" height="1" border="0" src="//static.mltvacations.com/images/spacer.gif" alt=""/></td>
+				<td width="210">Expanded W-F Winter Destinations from Minneapolis
+				
+				
+				<a href="/news/newsarticle.do?newsArticleId=323">more >></a>
+				
+				
+				
+				</td>
+			</tr>
+			<tr>
+			<td colspan="3"><img width="1" height="2" border="0" src="//static.mltvacations.com/images/spacer.gif" alt=""/></td>
+			</tr>
+			
+			<tr valign="top">
+				<td width="50"><span class="bold">09/20/04</span></td>
+				<td width="8"><img width="8" height="1" border="0" src="//static.mltvacations.com/images/spacer.gif" alt=""/></td>
+				<td width="210">Calendar of Events for United Way - 2005
+				
+				
+				<a href="/news/newsarticle.do?newsArticleId=320">more >></a>
+				
+				
+				
+				</td>
+			</tr>
+			<tr>
+			<td colspan="3"><img width="1" height="2" border="0" src="//static.mltvacations.com/images/spacer.gif" alt=""/></td>
+			</tr>
+			
+			<tr valign="top">
+				<td width="50"><span class="bold">09/20/04</span></td>
+				<td width="8"><img width="8" height="1" border="0" src="//static.mltvacations.com/images/spacer.gif" alt=""/></td>
+				<td width="210">W-F Expands Schedule from St. Louis
+				
+				
+				<a href="/news/newsarticle.do?newsArticleId=324">more >></a>
+				
+				
+				
+				</td>
+			</tr>
+			<tr>
+			<td colspan="3"><img width="1" height="2" border="0" src="//static.mltvacations.com/images/spacer.gif" alt=""/></td>
+			</tr>
+			
+		</table>
+		</div>
+
+		<p><a href="/news/index.do">all news >></a></p>
+
+		<div class="item">
+		<a href="/employeetravel/index.do"><img src="/images/home/heading_employeetravel.gif" width="280" height="50" border="0" alt="Employee Travel"/></a>
+		</div>
+
+		<div class="item">
+		<table border="0" cellpadding="0" cellspacing="0" width="280">
+			<tr valign="top">
+				<td width="50"><span class="bold">08/06/04</span></td>
+				<td width="8"><img width="8" height="1" border="0" src="//static.mltvacations.com/images/spacer.gif" alt=""/></td>
+				<td width="210">Travel Discount Tip
+				
+				
+				<a href="/employeetravel/travelnewsarticle.do?travelNewsArticleId=34">more >></a>
+				
+				
+				
+				</td>
+			</tr>
+		</table>
+		</div>
+
+		<p><a href="/employeetravel/index.do">all employee travel >></a></p>
+
+		<div class="item">
+		<a href="/employeeresources/salesandservice.do"><img src="/images/home/heading_salesservice.gif" width="280" height="50" border="0" alt="Sales Service"/></a>
+		</div>
+
+        <div class="group">
+
+        <div id="linklist">
+        <ul>
+			<li><a href="http://secure/reservations/ads/Reservations_Resources/" target="_blank">Reservations Resources</a></li>
+	        <li><a href="http://secure/reservations/ads/Weekly Fly Zone/" target="_blank">Weekly Fly Zone</a></li>
+
+        </ul>
+        </div>
+
+		</div>
+
+		<p><a href="/employeeresources/salesandservice.do">all sales & service >></a></p>
+
+		<td width="10"><img width="10" height="1" border="0" src="//static.mltvacations.com/images/spacer.gif" alt=""/></td>
+
+		<td width="280">
+
+		<div class="item-top">
+		<a href="/employeeresources/index.do"><img src="/images/home/heading_employeeresources.gif" width="280" height="50" border="0" alt="Employee Resources"/></a>
+		</div>
+
+		<div class="group">
+
+		<div id="linklist">
+		<ul>
+			<li><a href="http://secure/hr/emp_handbook/handbook_frameset.html" target="_blank">Employee Handbook</a></li>
+			<li><a href="http://secure/hr/manual/index.html" target="_blank">MLT Manager/Supervisor Manual</a></li>
+			<li><a href="/employeeresources/jobpostingindex.do">Job Postings</a></li>
+			<li><a href="P:\Timecard\Reserv.Timecard.xls" target="_blank">Timecards - Res</a></li>
+			<li><a href="P:\Timecard\Timecard.xls" target="_blank">Timecards - Standard</a></li>
+		</ul>
+		</div>
+
+		</div>
+
+		<div class="group">
+
+		<span class="bold">Helpful Links</span><br/>
+		<div id="linklist">
+		<ul>
+			<li><a href="http://www.mybenergy.com/" target="_blank">Mybenergy.com</a></li>
+			<li><a href="http://www.myabg.com/" target="_blank">MyABG.com</a></li>
+		</ul>
+		</div>
+
+		</div>
+
+		<p><a href="/employeeresources/index.do">all employee resources >></a></p>
+
+		<div style="background-color: #DFEEFD;">
+		<table border="0" cellpadding="5" cellspacing="2" width="100%">
+			<tr>
+				<td align="center" colspan="2"><span class="bold">MLT Vacations Inc. and Partner Product Lines</span><br/>
+				(click on a logo to visit)</td>
+			</tr>
+			<tr bgcolor="#FFFFFF">
+				<td align="center"><a href="http://www.worryfreevacations.com/" target="_blank"><img src="/images/home/logo_worryfreevacations.gif" width="100" height="50" border="0" alt="Worry-Free Vacations"/></a></td>
+				<td align="center"><a href="http://www.nwaworldvacations.com/" target="_blank"><img src="/images/home/logo_nwaworldvacations.gif" width="100" height="50" border="0" alt="NWA WorldVacations"/></a></td>
+			</tr>
+			<tr bgcolor="#FFFFFF">
+				<td align="center" colspan="2"><a href="http://www.worldagentdirect.com/" target="_blank"><img src="/images/home/logo_worldagentdirect.gif" width="200" height="26" border="0" alt="WorldAgent Direct"/></a></td>
+			</tr>
+		</table>
+		</div>
+
+		</td>
+	</tr>
+</table>
+<!-- END: /jsp/body/home/index_body.jsp -->
+
+		</div>
+		</td>
+		<td bgcolor="#000000" width="1"><img width="1" height="1" border="0" src="//static.mltvacations.com/images/spacer.gif" alt=""/></td>
+	</tr>
+</table>
+<!-- END: /jsp/template/leftside_body_template.jsp -->
+
+	
+
+
+
+
+<!-- BEGIN: /jsp/footer/standard_footer.jsp -->
+<table border="0" cellpadding="0" cellspacing="0" width="753">
+	<tr>
+		<td bgcolor="#000000" width="1"><img width="1" height="1" border="0" src="//static.mltvacations.com/images/spacer.gif" alt=""/></td>
+		<td width="40"><a href="/misc/faq.do"><img src="/images/footer/faqs.gif" width="40" height="19" border="0" alt="FAQs"/></a></td>
+		<td width="1"><img src="/images/footer/separator_red.gif" width="1" height="19" border="0" alt=""/></td>
+		<td width="64"><a href="mailto:IdeaBox@mltvacations.com"><img src="/images/footer/ideabox.gif" width="64" height="19" border="0" alt="Idea Box"/></a></td>
+		<td width="1"><img src="/images/footer/separator_red.gif" width="1" height="19" border="0" alt=""/></td>
+		<td width="59"><a href="/misc/contactindex.do"><img src="/images/footer/contact.gif" width="59" height="19" border="0" alt="Contact"/></a></td>
+		<td bgcolor="#CC0000" width="379"><img width="160" height="1" border="0" src="//static.mltvacations.com/images/spacer.gif" alt=""/></td>
+		<td bgcolor="#000000" width="1"><img width="1" height="1" border="0" src="//static.mltvacations.com/images/spacer.gif" alt=""/></td>
+		<td width="79"><a href="https://bart.mltvacations.com/exchange" target="_blank"><img src="/images/footer/getmltmail_blue.gif" width="79" height="19" border="0" alt=""/></a></td>
+		<td width="1"><img src="/images/footer/separator_blue.gif" width="1" height="19" border="0" alt=""/></td>
+		<td width="69"><a href="http://wrq.mltvacations.com/rwebserv/session/worldspan.html" target="_blank"><img src="/images/footer/worldspan.gif" width="69" height="19" border="0" alt="WorldSpan"/></a></td>
+		<td width="1"><img src="/images/footer/separator_blue.gif" width="1" height="19" border="0" alt=""/></td>
+		<td width="55"><a href="http://wrq.mltvacations.com/rwebserv/session/suntrac.html" target="_blank"><img src="/images/footer/suntrac.gif" width="55" height="19" border="0" alt="Suntrac"/></a></td>
+		<td bgcolor="#000000" width="1"><img width="1" height="1" border="0" src="//static.mltvacations.com/images/spacer.gif" alt=""/></td>
+	</tr>
+</table>
+<!-- END: /jsp/footer/standard_footer.jsp -->
+
+</div>
+<div id="DivSplash" style="display:none;">
+
+</div>
+</body>
+<!-- END: /jsp/template/standard_page_template.jsp -->
+</html>
+<!-- END: /jsp/template/standard_template.jsp -->

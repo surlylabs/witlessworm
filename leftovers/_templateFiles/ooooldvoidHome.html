@@ -1,0 +1,290 @@
+<html><!-- #BeginTemplate "/Templates/sectionTemplate.dwt" -->
+<head>
+  <!-- #BeginEditable "doctitle" -->
+<title>The Void</title>
+<!-- #EndEditable -->
+
+  <meta name="Keywords"    content="Eric Kinsella, The Void, DSD, Zen, SKA, Ska">
+  <meta name="Description" content="The Void's Homepage and Guestbook">
+
+  <link rel="SHORTCUT ICON" href="http://eric.kinsella.tripod.com/favicon.ico">
+
+  <!-- #BeginEditable "changeScripts" -->
+
+<!--Place bulletSwitch script between the head tags.-->
+<script language="JavaScript">
+
+  var imageTriangleBullet   = "../image/bullet/greenTriangleBullet.gif";
+  var imageTriangleBulletOn = "../image/bullet/greenTriangleBulletOn.gif";
+  var imageSquiggleBullet   = "../image/bullet/blackSquiggleBullet.gif";
+  var imageSquiggleBulletOn = "../image/bullet/blackSquiggleBulletOn.gif";
+
+  function bulletSwitch(imgName, bulletValue) {
+
+    if (bulletValue == 0) {
+      document[imgName].src = imageTriangleBulletOn;
+    } else if (bulletValue == 1) {
+      document[imgName].src = imageTriangleBullet;
+    } else if (bulletValue == 2) {
+      document[imgName].src = imageSquiggleBulletOn;
+    } else if (bulletValue == 3) {
+      document[imgName].src = imageSquiggleBullet;
+    }
+
+  }
+
+</script>
+<!-- End bulletSwitch-------------------------------->
+
+<!-- Place switchOn and switchOff script in the head section. ---->
+<script language="JavaScript">
+
+  //Flag. false = use off image and true = use on image
+  var flag = false;
+
+  image1       = new Image();
+  // Place your first image within the
+  // quotation marks on the line below
+  image1.src   = "../image/menuButton/menuButtonHome.gif";
+  image1on     = new Image();
+  // Place your second image within the
+  // quotation marks on the line below
+  image1on.src = "../image/menuButton/menuButtonHomeOn.gif"
+
+  image2       = new Image();
+  image2.src   = "../image/menuButton/menuButtonDsd.gif";
+  image2on     = new Image();
+  image2on.src = "../image/menuButton/menuButtonDsdOn.gif"
+
+  image3       = new Image();
+  image3.src   = "../image/menuButton/menuButtonLinks.gif";
+  image3on     = new Image();
+  image3on.src = "../image/menuButton/menuButtonLinksOn.gif"
+
+  image4       = new Image();
+  image4.src   = "../image/menuButton/menuButtonPetac.gif";
+  image4on     = new Image();
+  image4on.src = "../image/menuButton/menuButtonPetacOn.gif"
+
+  image5       = new Image();
+  image5.src   = "../image/menuButton/menuButtonSka.gif";
+  image5on     = new Image();
+  image5on.src = "../image/menuButton/menuButtonSkaOn.gif"
+
+  image6       = new Image();
+  image6.src   = "../image/menuButton/menuButtonZen.gif";
+  image6on     = new Image();
+  image6on.src = "../image/menuButton/menuButtonZenOn.gif"
+
+  image7       = new Image();
+  image7.src   = "../image/menuButton/menuButtonEmail.gif";
+  image7on     = new Image();
+  image7on.src = "../image/menuButton/menuButtonEmailOn.gif"
+
+  function switchOn(name)
+  {
+     // if currently off, turn it on
+     if (!flag) {
+        document[name].src = eval(name + "on.src");
+        flag = true;
+     }
+  }
+
+  function switchOff(name)
+  {
+     // if currently on, turn it off
+     if (flag) {
+        document[name].src = eval(name + ".src");
+        flag = false;
+     }
+  }
+
+</script>
+<!-- End switchOn and switchOff ------------------------------->
+
+<!-- #EndEditable -->
+
+</head>
+<body link="#000000" vlink="#000000" alink="FF0000" background="../image/greenTipGreyStrip.gif">
+  <img align="top" hspace="0" vspace="0" border="0" src="../image/theVoidBanner.gif" width="744" height="88">
+
+  <table cellspacing="1" cellpadding="0" width="100%">
+    <tr>
+
+    <td align="left" valign="top" width="10%">
+      <div align="center">
+        <b>
+        <!-- #BeginEditable "Menu%20Logo" --><img src="../image/menuLogo/menuLogoTheVoid.gif" width="100" height="43"><!-- #EndEditable -->
+        </b>
+        <br>
+        <br>
+      </div>
+      <table align="left" border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td>
+              <!-- Type your URL within the quotation marks below. -->
+              <a onmouseover="switchOn('image1');" onmouseout="switchOff('image1')" href="../page/voidHome.html">
+              <!--The image name below should correspond with the first image in the HEAD section.-->
+              <img name="image1" border="0" src="../image/menuButton/menuButtonHome.gif" width="82" height="23"></a>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <a onmouseover="switchOn('image2');" onmouseout="switchOff('image2')" href="../page/section/dsd/dsdHome.html">
+              <img name="image2" border="0" src="../image/menuButton/menuButtonDsd.gif" width="70" height="23"></a>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <a onmouseover="switchOn('image3');" onmouseout="switchOff('image3')" href="../page/section/links/linksHome.html">
+              <img name="image3" border="0" src="../image/menuButton/menuButtonLinks.gif" width="96" height="23"></a>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <a onmouseover="switchOn('image4');" onmouseout="switchOff('image4')" href="../page/section/petac/petacHome.html">
+              <img name="image4" border="0" src="../image/menuButton/menuButtonPetac.gif" width="94" height="23"></a>
+            </td>
+          </tr>
+          <tr>
+            <TD height="20">
+              <a onmouseover="switchOn('image5');" onmouseout="switchOff('image5')" href="../page/section/ska/skaHome.html">
+              <img name="image5" border="0" src="../image/menuButton/menuButtonSka.gif" width="68" height="23"></a>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <a onmouseover="switchOn('image6');" onmouseout="switchOff('image6')" href="../page/section/zen/zenHome.html">
+              <img name="image6" border="0" src="../image/menuButton/menuButtonZen.gif" width="68" height="23"></a>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <a onmouseover="switchOn('image7');" onmouseout="switchOff('image7')" href="mailto:erickinsella@lycos.com">
+              <img name="image7" border="0" src="../image/menuButton/menuButtonEmail.gif" width="96" height="23"></a>
+            </td>
+          </tr>
+        </table>
+
+        <br>&nbsp;
+        <br>&nbsp;
+        <br>&nbsp;
+        <br>&nbsp;
+        <br>&nbsp;
+        <br>&nbsp;
+        <br>&nbsp;
+
+        <p>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <p>&nbsp;
+      </td>
+
+      <td align="left" valign="top">
+
+        <p>
+
+        <table>
+          <tr>
+            <td>
+              &nbsp;&nbsp;&nbsp;
+            </td>
+            <td>
+              <!-- Page specific Info-->
+              <br>
+              <!-- #BeginEditable "Specific%20Page%20Content" -->
+
+            <center>
+            <p> &quot;Whoever can take the time and the peace to observe is surprised and feels <b><i>the void</i></b> of his own being.&quot;
+            <br>-- Janwillhem Van De Weetering</center>
+
+            <p>
+
+            <img NAME="img_01" SRC="../image/bullet/greenTriangleBullet.gif" naturalsizeflag="3" width="20" height="10">
+            <a onMouseOver="imgover(img_01)" onMouseOut="imgout(img_01)" href="links.html">
+            <b>The Void's Bookmarks</b> </a> - My favorite places to hide out on the web.
+
+            <br>
+            <br>
+
+            <img NAME="img_02" SRC="../image/bullet/greenTriangleBullet.gif" naturalsizeflag="3" width="20" height="10">
+            <a onMouseOver="imgover(img_02)" onMouseOut="imgout(img_02)"
+              href="http://htmlgear.lycos.com/guest/control.guest?u=eric.kinsella&i=1001&a=sign">
+            <b>Sign The Void's Guestbook</b></a> - Just in case you have any comments or suggestions.
+
+            <br>
+            <br>
+
+            <img NAME="img_03" SRC="../image/bullet/greenTriangleBullet.gif" naturalsizeflag="3" width="20" height="10">
+            <a onMouseOver="imgover(img_03)" onMouseOut="imgout(img_03)"
+              href="http://htmlgear.lycos.com/guest/control.guest?u=eric.kinsella&i=1001&a=view">
+            <b>View The Void's Guestbook</b></a> - Go ahead you know you want to.
+
+            <br>
+            <br>
+
+            <img NAME="img_04" SRC="../image/bullet/greenTriangleBullet.gif" naturalsizeflag="3" width="20" height="10">
+            <a onMouseOver="imgover(img_04)" onMouseOut="imgout(img_04)" href="ah.html">
+            <b>A cute picture</b></a> of me, if you can believe that... &nbsp;
+
+            <br>
+            <br>
+
+            <img NAME="img_05" SRC="../image/bullet/greenTriangleBullet.gif" naturalsizeflag="3" width="20" height="10">
+            <a onMouseOver="imgover(img_05)" onMouseOut="imgout(img_05)" href="dsd.html" >
+            <b>Our Ska Band</b></a> - Daddy's Soul Doughnut.
+
+            <br>
+            <br>
+
+            <img NAME="img_06" SRC="../image/bullet/greenTriangleBullet.gif" naturalsizeflag="3" width="20" height="10">
+            <a onMouseOver="imgover(img_06)" onMouseOut="imgout(img_06)" href="mail.html" >
+            <b>Personal mail</b></a> received, now on display for public viewing.
+            <br>
+            </center>
+
+            <!-- #EndEditable -->
+              <br>
+              <!-- End page specific Info -->
+            </td>
+          </tr>
+        </table>
+
+        <center>
+
+        <p>&nbsp;</p>
+
+        <table bgcolor="#808040">
+          <tr valign="middle" align="center">
+            <td height="26"> <b> <a href="../page/voidHome.html">Home</a> | <a href="../page/section/dsd/dsdHome.html">DSD</a> 
+              | <a href="../page/section/links/linksHome.html">Links</a> | <a href="../page/section/petac/petacHome.html">Petac</a> 
+              | <a href="../page/section/music/ska/skaHome.html">Ska</a> | <a href="../page/section/zen/zenHome.html">Zen</a> 
+              | <a href="mailto:erickinsella@lycos.com">Email</a> </b> </td>
+          </tr>
+        </table>
+
+        </center>
+
+        <img SRC="../image/blackHrule.gif" width="632" height="5">
+        <!-- Web sites used -->
+        <!-- http://www.gifworks.com/-->
+        <!-- http://www.1001freefonts.com/index2.html -->
+        <!-- http://www.411law.com/freebie/webspace.htm -->
+        <address>
+          <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>http://eric.kinsella.tripod.com</i>
+          <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:erickinsella@lycos.com">erickinsella@lycos.com</a>
+          <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This site was last updated 11.06.2001
+          <br>&nbsp;
+        </address>
+
+        <p></p>
+
+      </td>
+    </tr>
+  </table>
+
+</body>
+<!-- #EndTemplate --></html>

@@ -43,50 +43,44 @@
 		<div class="colleft">
 			<div class="col1">
 				<!-- column 1 -->
-				<iframe src="http://box.fanchatter.com/fanchatter-171" height="750" width="99%" style="border: 2px solid #000000;"></iframe>
+				<iframe src="http://box.fanchatter.com/fanchatter-171" height="700" width="1150" style="border: 2px solid #000000;"></iframe>
 				<div style="padding-top: 5px;">
 					<table>
 						<tr>
 							<!-- twitter follow -->
-							<td width="20%">
+							<td>
 								<a href="http://twitter.com/cdavid37" class="twitter-follow-button">Follow @cdavid37</a><br/>
 								<a href="http://twitter.com/dabootski" class="twitter-follow-button">Follow @dabootski</a><br/>
-								<a href="http://twitter.com/fanchatter" class="twitter-follow-button">Follow @fanchatter</a>
+								<a href="http://twitter.com/fanchatter" class="twitter-follow-button">Follow @fanchatter</a><br/>
 							</td>
-							<td width="20%">
+							<td>
 								<a href="http://twitter.com/haskovec" class="twitter-follow-button">Follow @haskovec</a><br/>
 								<a href="http://twitter.com/luckycharmguy" class="twitter-follow-button">Follow @luckycharmguy</a><br/>
-								<a href="http://twitter.com/lightsabersd" class="twitter-follow-button">Follow @lightsabersd</a><br/>
+								<a href="http://twitter.com/magicnumberguy" class="twitter-follow-button">Follow @magicnumberguy</a><br/>
 							</td>
-							<td width="20%">
-								<a href="http://twitter.com/magicnumberguy" class="twitter-follow-button">Follow @magicnumberguy</a>
+							<td>
+								<a href="http://twitter.com/sabersd" class="twitter-follow-button">Follow @sabersd</a><br/>
 								<a href="http://twitter.com/staticnull" class="twitter-follow-button">Follow @staticnull</a><br/>
-								<a href="http://twitter.com/witlessworm" class="twitter-follow-button">Follow @witlessworm</a>
+								<a href="http://twitter.com/witlessworm" class="twitter-follow-button">Follow @witlessworm</a><br/>
 							</td>
 							<!-- / twitter follow -->
-							<td width="40%" border="1">
-								<table>
-									<tr>
-										<td>
-											<!-- +1 -->
-											<div class="g-plusone" data-size="tall" data-href="http://witlessworm.com"></div>
-											<!-- / +1 -->
-										</td>
-										<td>
-											<!-- twitter -->
-											<div>
-												<a href="http://twitter.com/share" class="twitter-share-button" data-count="vertical" data-via="witlessworm" data-related="luckycharmguy">Tweet</a>
-											</div>
-											<!-- /twitter -->
-										</td>
-										<td>
-											<!-- fb -->
-											<div id="fb-root"></div>
-											<fb:like href="http://witlessworm.com" send="false" layout="box_count" width="450" show_faces="true" font=""></fb:like>
-											<!-- /fb -->
-										</td>
-									</tr>
-								</table>
+							<td>
+								<!-- +1 -->
+								<div class="g-plusone" data-size="tall" data-href="http://witlessworm.com"></div>
+								<!-- / +1 -->
+							</td>
+							<td>
+								<!-- twitter -->
+								<div>
+									<a href="http://twitter.com/share" class="twitter-share-button" data-count="vertical" data-via="witlessworm" data-related="luckycharmguy">Tweet</a>
+								</div>
+								<!-- /twitter -->
+							</td>
+							<td>
+								<!-- fb -->
+								<div id="fb-root"></div>
+								<fb:like href="http://witlessworm.com" send="false" layout="box_count" width="450" show_faces="true" font=""></fb:like>
+								<!-- /fb -->
 							</td>
 						</tr>
 					</table>

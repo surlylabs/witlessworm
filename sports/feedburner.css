@@ -1,0 +1,31 @@
+div.feedburnerFeedBlock { 
+	border: 2px solid #000000;
+	background-color: #38ACEC;
+	padding: 10px;
+}
+
+div.feedburnerFeedBlock ul {
+	list-style-type: none;
+	margin-left: 0;
+	padding-left: 0;
+}
+
+div.feedburnerFeedBlock ul ul {
+	list-style-type: disc;
+}
+
+div.feedburnerFeedBlock ul ol {
+	list-style-type: decimal;
+}
+
+div.feedburnerFeedBlock ul li span.headline {
+	display: block;
+	font-size: 14px;
+	font-weight: bold;
+	margin: 5px 0 0 0;
+}
+
+div.feedburnerFeedBlock p.feedTitle {
+	font-size: 18px;
+	font-weight: bold;
+}
